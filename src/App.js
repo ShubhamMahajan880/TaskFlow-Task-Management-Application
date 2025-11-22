@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Header from "./MyComponents/Header";
+import Footer from "./MyComponents/Footer";
+import ToDos from "./MyComponents/ToDos";
 
 function App() {
+
+
+  let ToDos = [
+    { sno: 1, title: "Apply in DriveX", desc: "Apply for Developer Role and Possition at DriveX" },
+    { sno: 2, title: "Learn React", desc: "Start React basics and props" },
+    { sno: 3, title: "Practice DSA", desc: "Solve array and string questions" },
+    { sno: 4, title: "Prepare for Interview", desc: "Have a look on complete Interview Preparation" },
+    { sno: 5, title: "Compnesation", desc: "at least 15 LPA" }
+  ];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header title="To Do List - Shubham Mahajan" />
+
+      {/* Passing todos list to ToDos */}
+      <ToDos ToDos={ToDos} />
+
+      <Footer />
+    </>
   );
 }
 
