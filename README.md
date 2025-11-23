@@ -25,6 +25,9 @@ This project is a part of my daily learning, consistency, and revision routine.
 ---
 
 ## 📸 Screenshots
+
+## 📸 Screenshots
+
 <div align="center">
 
 ### 🏠 Home Page  
@@ -36,6 +39,7 @@ This project is a part of my daily learning, consistency, and revision routine.
 <img width="1024" alt="About Page" src="./Working Screenshots/about.png" />
 
 </div>
+
 
 
 > *(You can rename or move the images into a `/Working Screenshots` folder if needed.)*
