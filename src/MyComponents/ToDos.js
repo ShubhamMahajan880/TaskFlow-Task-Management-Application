@@ -1,17 +1,26 @@
 import React from 'react'
-import ToDoItems from "./ToDoItems";
+import { ToDoItems } from "./ToDoItems";
 
-export default function ToDos(props) {
+export const ToDos = (props) => {
 
   return (
     <div className="container">
-      <h3>Todos List</h3>
+      <h3 className="text-center">Todos List</h3>
 
-      {/* Loop through all todos */}
-      {props.todos.map((todo) => {
-        return <ToDoItems todo={todo} key={todo.sno} />
-      })}
+      {props.todos.length === 0 ? (
+        "No Todos to Display"
+      ) : (
+        props.todos.map((todo) => (
+          <ToDoItems
+            todo={todo}
+            onDelete={props.onDelete}
+            key={todo.sno}
+          />
+        ))
+      )}
 
     </div>
-  )
+  );
 }
+
+export default ToDos;
