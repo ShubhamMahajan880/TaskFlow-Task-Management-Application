@@ -25,18 +25,18 @@ This project is a part of my daily learning, consistency, and revision routine.
 ---
 
 ## 📸 Screenshots
-
 <div align="center">
 
 ### 🏠 Home Page  
-<img width="1024" alt="Home Page" src="[https://files-chatgpt.sandbox.openai.com/mnt/data/home.png](https://github.com/ShubhamMahajan880/todo-list2/blob/main/Working%20Screenshots/1_Home%20PageTo%20DO%20APP_Shubham%20Mahajan.png)" />
+<img width="1024" alt="Home Page" src="./Working Screenshots/home.png" />
 
 <br/><br/>
 
 ### ℹ️ About Page  
-<img width="1024" alt="About Page" src="[https://files-chatgpt.sandbox.openai.com/mnt/data/about.png](https://github.com/ShubhamMahajan880/todo-list2/blob/main/Working%20Screenshots/2_About%20PageTo%20DO%20APP_Shubham%20Mahajan.png)" />
+<img width="1024" alt="About Page" src="./Working Screenshots/about.png" />
 
 </div>
+
 
 > *(You can rename or move the images into a `/Working Screenshots` folder if needed.)*
 
