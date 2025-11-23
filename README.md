@@ -26,23 +26,23 @@ This project is a part of my daily learning, consistency, and revision routine.
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <div align="center">
 
 ### 🏠 Home Page  
-<img width="1024" alt="Home Page" src="./Working Screenshots/home.png" />
+
+<img width="1024" alt="Home Page" src="<img width="1920" height="1080" alt="1_Home PageTo DO APP_Shubham Mahajan" src="https://github.com/user-attachments/assets/bbfaa2ae-ae90-4b49-a271-5a8018b8e960" />
+" />
 
 <br/><br/>
 
 ### ℹ️ About Page  
-<img width="1024" alt="About Page" src="./Working Screenshots/about.png" />
+
+<img width="1024" alt="About Page" src="<img width="1920" height="1080" alt="2_About PageTo DO APP_Shubham Mahajan" src="https://github.com/user-attachments/assets/ee36808f-8988-400d-a505-6e642102d33d" />
+" />
 
 </div>
 
 
-
-> *(You can rename or move the images into a `/Working Screenshots` folder if needed.)*
 
 ---
 
@@ -57,4 +57,3 @@ This project is a part of my daily learning, consistency, and revision routine.
 ---
 
 ## 📂 Folder Structure
-
