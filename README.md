@@ -35,7 +35,7 @@ This project is a part of my daily learning, consistency, and revision routine.
 
 ![About Page](./screenshots/about.png)
 
-> *(You can rename the images and place them in a `/screenshots` folder.)*
+> *(You can rename the images and place them in a `/Working Screenshots` folder.)*
 
 ---
 
