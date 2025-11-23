@@ -8,7 +8,7 @@ export const ToDos = (props) => {
       <h3 className="text-center">Todos List</h3>
 
       {props.todos.length === 0 ? (
-        "No Todos to Display"
+        "No Task Pending, You've done everything"
       ) : (
         props.todos.map((todo) => (
           <ToDoItems
